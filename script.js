@@ -4,10 +4,11 @@ document.addEventListener('DOMContentLoaded', () => {
     // ===== TYPING ANIMATION =====
     const subtitleEl = document.getElementById('heroSubtitle');
     const phrases = [
+        'AI Automation & R&D Intern',
         'Data Science Enthusiast',
-        'AI & ML Explorer',
-        'Business Analytics Student',
-        'Cloud Computing Practitioner',
+        'ML & Deep Learning Explorer',
+        'Analytics & Marketing Professional',
+        'N8N Workflow Automation',
         'Digital Marketing Strategist'
     ];
     let phraseIndex = 0;
